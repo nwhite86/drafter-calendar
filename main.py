@@ -11,7 +11,7 @@ set_site_information(
     description="Manage custom calendars with Drafter.",
     sources="Drafter docs, some LLM interaction, Forgotten Realms campaign setting.",
     planning=[],
-    links=["https://github.com/your-username/your-repository"]
+    links=["https://github.com/nwhite86/drafter-calendar"]
 )
 hide_debug_information()
 set_website_framed(False)
