@@ -1,7 +1,7 @@
 from bakery import assert_equal
 from drafter import *
 from dataclasses import dataclass
-from calendar import *
+from custom_calendar import *
 
 PROGRAM_NAME = "[Temporary Program Name]"
 
