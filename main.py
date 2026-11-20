@@ -1,7 +1,7 @@
 from bakery import assert_equal
 from drafter import *
 from dataclasses import dataclass
-from custom_calendar import *
+from custom_calendar.py import *
 
 
 #region website metadata
